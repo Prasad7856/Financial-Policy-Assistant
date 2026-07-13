@@ -35,13 +35,13 @@ Instead of relying solely on semantic similarity, the retrieval pipeline combine
 
 | Category | Technologies |
 |----------|--------------|
-| 🎨 Frontend | *(Optional UI / Streamlit or React if applicable)* |
+| 🎨 Frontend | Streamlit |
 | ⚙️ Backend | Python, FastAPI, LangChain |
 | 🧠 LLM | LLaMA 3-70B (Groq API) |
 | 🔎 Retrieval | Hybrid Retrieval, BM25, Semantic Search, Reranking |
 | 🗄️ Vector Database | Pinecone |
 | 📚 Embeddings | HuggingFace Embeddings |
-| 📄 Document Processing | PDF Parsing, Text Chunking |
+| 📄 Document Processing | PyMuPdf, Text Chunking |
 | ☁️ Infrastructure | REST APIs |
 
 ---
