@@ -71,8 +71,6 @@ Include:
 - Querying a financial policy in natural language
 - Retrieved document snippets
 - Final grounded response
-- API response from FastAPI
-- Optional GIF showing the end-to-end workflow
 
 
 <img width="1920" height="1080" alt="Financial Policy Assistant" src="https://github.com/user-attachments/assets/f0cddba1-96d8-4927-84d2-9844bb95e167" />
@@ -82,7 +80,7 @@ Include:
 # Installation & Setup
 
 ```bash
-git clone https://github.com/yourusername/financial-policy-assistant.git
+git clone https://github.com/Prasad7856/financial-policy-assistant.git
 
 cd financial-policy-assistant
 
