@@ -62,7 +62,8 @@ The application follows a Retrieval-Augmented Generation (RAG) architecture.
 > Add an architecture diagram below showing the ingestion pipeline and query flow.
 
 ```markdown
-![Architecture Diagram](docs/architecture.png)
+<img width="1536" height="1024" alt="rag architecture" src="https://github.com/user-attachments/assets/d9977503-649d-46ca-bc8a-e1f975485bdb" />
+
 ```
 
 ---
@@ -80,10 +81,8 @@ Include:
 Example placeholders:
 
 ```text
-docs/screenshots/home.png
-docs/screenshots/query.png
-docs/screenshots/results.png
-docs/demo.gif
+<img width="1920" height="1080" alt="Financial Policy Assistant" src="https://github.com/user-attachments/assets/02d4eaa2-c3c7-482a-b690-a76cf4c7f297" />
+
 ```
 
 ---
