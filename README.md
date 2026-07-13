@@ -113,34 +113,10 @@ API documentation:
 http://localhost:8000/docs
 ```
 
----
-
-# Usage
-
-Example API request:
-
-```bash
-curl -X POST http://localhost:8000/query \
--H "Content-Type: application/json" \
--d '{
-  "question":"What is the maximum loan eligibility under this policy?"
-}'
-```
-
-Example response:
-
-```json
-{
-  "answer": "...",
-  "sources": [
-    "Loan_Policy.pdf - Page 12"
-  ]
-}
-```
 
 ---
 
-# Roadmap
+# Future Improvements
 
 - 🚧 Add metadata filtering to retrieve policies by organization, category, or publication date.
 - 🚧 Support incremental document indexing without rebuilding the entire vector store.
@@ -154,18 +130,8 @@ The most challenging part of this project was improving retrieval quality rather
 
 ---
 
-# License
-
-MIT License
-
----
-
 # Contact
 
-📧 Email: your.email@example.com
+📧 Email: prasad.chavan.eng@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
-
-🔗 Portfolio: https://yourportfolio.com
-
-🔗 GitHub: https://github.com/yourusername
+💼 LinkedIn: https://www.linkedin.com/in/mynameisprasad/
