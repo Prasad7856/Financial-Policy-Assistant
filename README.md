@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="rag architecture" src="https://github.com/user-attachments/assets/57a836a0-d78a-430b-9900-2d2bc4f1fbb1" /># Financial Policy Assistant 📚
+# Financial Policy Assistant 📚
 
 Answer questions about financial policies and regulations using a hybrid Retrieval-Augmented Generation (RAG) pipeline that prioritises relevant evidence over LLM guesswork.
 
@@ -59,11 +59,7 @@ The application follows a Retrieval-Augmented Generation (RAG) architecture.
 7. The highest-ranked context is injected into the prompt.
 8. LLaMA 3-70B generates an answer using only the retrieved evidence.
 
-> Add an architecture diagram below showing the ingestion pipeline and query flow.
 
-```markdown
-
-```
 <img width="1536" height="1024" alt="rag architecture" src="https://github.com/user-attachments/assets/4e5c0355-08fd-4466-9f10-be2b706779eb" />
 
 ---
@@ -78,12 +74,7 @@ Include:
 - API response from FastAPI
 - Optional GIF showing the end-to-end workflow
 
-Example placeholders:
 
-```text
-
-
-```
 <img width="1920" height="1080" alt="Financial Policy Assistant" src="https://github.com/user-attachments/assets/f0cddba1-96d8-4927-84d2-9844bb95e167" />
 
 ---
